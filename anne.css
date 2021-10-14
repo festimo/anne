@@ -1,0 +1,44 @@
+h1
+{
+font-family: lucida;
+font-size: 50px;
+color: purple;
+text-align: justify;
+font-style: italic;
+font-weight: 600;
+}
+h2
+{
+  font-family: lucida;
+  font-size: 30px;
+color: blue;
+text-align: left;
+font-style: italic;
+font-weight: 900;
+}
+.header{
+  background-color: blue;
+}
+body{
+background-color: pink;
+}
+p
+{
+font-size: 50px;
+font-family: lucida;
+font-weight: 200;
+}
+.contactme{
+  background-color: indigo;
+  font-size: 50px;
+  font-style: italic;
+  font-family: lucida;
+  font-weight: 800;
+}
+.aboutme{
+  color: green;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: 600;
+  font-family: lucida;
+}
